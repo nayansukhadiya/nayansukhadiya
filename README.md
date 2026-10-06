@@ -41,7 +41,7 @@ My strongest interest is building systems where **backend engineering, product t
 
 ---
 
-## `01` — What I Build
+## What I Build
 
 | Area | What I work on |
 |---|---|
@@ -55,7 +55,7 @@ My strongest interest is building systems where **backend engineering, product t
 
 ---
 
-## `02` — Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -100,7 +100,7 @@ My strongest interest is building systems where **backend engineering, product t
 
 ---
 
-## `03` — Engineering Interests
+## Engineering Interests
 
 ```text
                  PRODUCT
@@ -137,75 +137,7 @@ I'm especially interested in:
 - **Developer Experience**
 
 ---
-
-## `04` — Selected Projects
-
-### 💰 Lunexa
-
-**Financial Management Platform**
-
-A financial management system focused on multi-wallet management, analytics, authentication, cloud integrations, and an AI financial assistant.
-
-`React` `TypeScript` `NestJS` `PostgreSQL` `AWS`
-
----
-
-### 🛒 QuickEMart
-
-**AI-powered E-Commerce**
-
-An AI-assisted grocery shopping platform that understands natural-language requests and generates relevant shopping carts from a large product catalogue.
-
-`React` `Node.js` `MongoDB` `Gemini`
-
----
-
-### 🏗️ Service Buddy
-
-**Multi-Tenant SaaS Platform**
-
-A business operations platform designed around scalable workflows, bulk product ingestion, validation pipelines, asynchronous processing, and high-volume event logging.
-
-`React` `Node.js` `PostgreSQL` `AWS`
-
----
-
-### 🎨 Aetrova
-
-**Design Intelligence Platform**
-
-A developer-focused platform exploring automated brand systems, design tokens, `design.md`, AI-assisted design decisions, and CLI-based design-system scaffolding.
-
-`TypeScript` `React` `NestJS` `AI` `CLI`
-
----
-
-## `05` — How I Think About Engineering
-
-```text
-Understand the problem
-        ↓
-Design the simplest architecture
-        ↓
-Model the data correctly
-        ↓
-Build reliable APIs
-        ↓
-Create a useful interface
-        ↓
-Test real-world failure cases
-        ↓
-Deploy
-        ↓
-Measure → Improve → Repeat
-```
-
-> **I don't just want software that works.  
-> I want to understand why it works, how it fails, and how it can evolve.**
-
----
-
-## `06` — GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -217,7 +149,7 @@ Measure → Improve → Repeat
 
 ---
 
-## `07` — Let's Connect
+## Let's Connect
 
 If you're interested in **building products, backend systems, AI applications, or solving interesting engineering problems**, feel free to reach out.
 
